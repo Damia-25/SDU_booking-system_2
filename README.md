@@ -1,3 +1,2 @@
 #SDU Booking System
-Conflict from main BRANCH.
-
+Resolved conflict beetwen main and experiment
